@@ -1,6 +1,6 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
+    "name": "V2",
+    "description": "Deploy V2 VLESS on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
